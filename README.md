@@ -1,9 +1,11 @@
 # FighterRoster
 
 This project was made using React through `npm create-react-app` and displays "fighters" in a style similar
-to the Super Smash Bros. series of video games.
+to the Super Smash Bros. series of video games. The `build` folder contains the minified, exectutable version
+of the files I coded in React. The original files that I created are located in `Main Files/src` (with the 
+exception of the `registerServiceWorker.js`, the `.woff` and the `.otf` files, and the image files)
 
-In order to view this project you need npm and you must follow these steps:
+In order to view this project you need `npm` and you must follow these steps:
 
 1. Clone the repository
 
