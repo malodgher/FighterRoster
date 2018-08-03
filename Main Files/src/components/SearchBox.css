@@ -1,0 +1,18 @@
+@font-face{
+    font-family: 'Super-Smash-4';
+    src: local('Super-Smash-4'), url('Smash4.woff') format('woff');
+}
+
+.searchspace{
+    padding-bottom: 1.5rem;
+}
+
+input{
+    padding: 0.5rem;
+    font-family: 'Super-Smash-4';
+    font-weight: 100;
+    font-size: 1.5rem;
+    width: 66.67%;
+    border-radius: 1rem;
+    outline: none;
+}

@@ -1,0 +1,11 @@
+@font-face{
+    font-family: 'Super-Smash-4';
+    src: local('Super-Smash-4'), url('Smash4.woff') format('woff');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Super-Smash-4';
+  background: linear-gradient(to right, rgba(60,0,0,1) 0% , rgba(251,4,29,1) 100%);
+}
