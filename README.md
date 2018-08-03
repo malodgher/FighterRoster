@@ -1,5 +1,8 @@
 # FighterRoster
 
+This project was made using React through `npm create-react-app` and displays "fighters" in a style similar
+to the Super Smash Bros. series of video games.
+
 In order to view this project you need npm and you must follow these steps:
 
 1. Clone the repository
